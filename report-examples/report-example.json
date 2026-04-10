@@ -1,0 +1,24 @@
+{
+  "informacje_systemowe": {
+    "nazwa_komputera": "DESKTOP-EXAMPLE",
+    "uzytkownik": "example_user",
+    "system": "Windows",
+    "wersja_systemu": "10.0.26100",
+    "release_systemu": "11",
+    "architektura": "AMD64",
+    "adres_ip": "192.168.1.100",
+    "katalog_roboczy": "C:\\Users\\example_user\\sys-inventory"
+  },
+  "stan_systemu": {
+    "cpu_procent": 18.4,
+    "ram_procent": 52.1,
+    "ram_calkowita_gb": 16.0,
+    "ram_dostepna_gb": 7.66,
+    "dysk_procent": 61.3,
+    "dysk_calkowity_gb": 476.94,
+    "dysk_wolny_gb": 184.45,
+    "czas_startu_systemu": "2026-04-10 08:15:22",
+    "czas_wygenerowania_raportu": "2026-04-10 19:45:10",
+    "status_komputera": "healthy"
+  }
+}
