@@ -1,0 +1,36 @@
+{
+  "progi": {
+    "cpu": {
+      "warning": 75,
+      "critical": 90
+    },
+    "ram": {
+      "warning": 80,
+      "critical": 90
+    },
+    "dysk": {
+      "warning": 80,
+      "critical": 95
+    }
+  },
+  "monitorowane_uslugi": [
+    "Spooler",
+    "wuauserv",
+    "WinDefend"
+  ],
+  "hosty_do_sprawdzenia": [
+    "8.8.8.8",
+    "1.1.1.1",
+    "localhost"
+  ],
+  "porty_do_sprawdzenia": [
+    {
+      "host": "google.com",
+      "port": 443
+    },
+    {
+      "host": "localhost",
+      "port": 135
+    }
+  ]
+}
